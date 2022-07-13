@@ -1,0 +1,11 @@
+
+Aprender e dominar:
+
+1 O que é lógica de programação ok
+2 Inputs e Outputs ok
+3 Variaveis e Constantes ok
+4 Condicionais
+5 Arrays, vetores
+6 Looping
+7 Funções
+8 Objetos
